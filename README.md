@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaosvoid
 - 👀 I’m interested in tec
-- 🌱 I’m currently learning python,c+, Java,ai
+- 🌱 I’m currently learning python,c+,Java,ai,biotech,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - 😄 Pronouns:male?
